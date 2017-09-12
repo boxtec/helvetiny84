@@ -12,5 +12,7 @@ Tutorials: https://playground.boxtec.ch/doku.php/arduino/attinyusb/helvetiny84/t
 
 Support Thread: https://forum.boxtec.ch/index.php/topic,3162.0.html
 
+If you would like to have a smaler board check the helvetiny85: https://github.com/boxtec/helvetiny85
+
 Have fun.
 Dinoi
